@@ -3,7 +3,7 @@
 After 50 years in the plumbing business, you're ready to retire to a life simplicity and no more turtle infested toilets, however, 
 after the white house's plumbing goes on the fritz, their only hope is the worlds gruffest, tenacious, and most Italian plumber, Lou. You
 play as Lou as he takes out ther evil sewer forces that have ruined the white house, and go down in history as the ultimate plumber.
- 
+ ![alt text](https://raw.githubusercontent.com/oek8462/IGME230/master/media/LOU.jpg)
 # Propsal
 ## I. High Concept
 An old crusty plumber has to fight his way through evil sewer entites to restore plumbing to the white house. In an ridiculous platforming adventure
@@ -20,7 +20,8 @@ The game will have an abstract cartoony style, looking quite goofy. As lou will 
 ## VI. Gameplay
 The player will be able to use his Italian power to throw objects such as wrenches and plungers at sewer creatures to clear them from the plumbing, he will also be able to jump and move around on platforms. Lou will move with the WASD keys and jump with space, to throw an object, press E.
 ## ScreenShots
-Screenshots will go here.
+![alt text](https://raw.githubusercontent.com/oek8462/IGME230/master/media/screenshot.png)
+![alt text](https://raw.githubusercontent.com/oek8462/IGME230/master/media/sc2.png)
 ## VIII. OTHER
 No other information is available at this time. The Game's concept may be subject to change at any time
 ## IX. About the Developer
